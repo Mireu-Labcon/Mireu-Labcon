@@ -13,7 +13,7 @@ Hello, I am a student developer who is a service app backend development, server
 ### Team
 **I belong to the developer teams of names below.**
 <ul>
-  <li><a href="https://github.com/CalicoCheese"><img src="https://img.shields.io/badge/CalicoCheese-808080?style=flat-square"></a> : Discord bot development and docker hosting development team</li>
+  <li><a href="https://github.com/dplyapp"><img src="https://img.shields.io/badge/Team Sirius-808080?style=flat-square"></a> : Discord bot development and docker hosting development team</li>
 </ul>
 
 ### Content Us
