@@ -18,14 +18,20 @@ Hello, I am a student developer who is a service app backend development, server
 
 ### Content Us
 **We are using social network services as below**<br/>
-<a href="mailto:alfmalfm1214@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-alfmamlf1214@gmail.com-0080aa?style=for-the-badge&logo=gmail">
-</a>
-
-<a href="https://www.rocketpunch.com/@alfmalfm1214">
-  <img src="https://img.shields.io/badge/Rocketpunch-rocketpunch.com/@alfmalfm1214-0080aa?style=for-the-badge&logo=gmail">
-</a>
-
-<a href="https://www.facebook.com/mireu1214">
-  <img src="https://img.shields.io/badge/Facebook-facebook.com/mireu1214-0080aa?style=for-the-badge&logo=facebook">
-</a>
+<ul>
+    <li>
+        <a href="mailto:alfmalfm1214@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-alfmamlf1214@gmail.com-0080aa?style=for-the-badge&logo=gmail">
+        </a>
+    </li>
+    <li>
+        <a href="https://www.rocketpunch.com/@alfmalfm1214">
+        <img src="https://img.shields.io/badge/Rocketpunch-rocketpunch.com/@alfmalfm1214-0080aa?style=for-the-badge&logo=rocketpunch">
+        </a>
+    </li>
+    <li>
+        <a href="https://www.facebook.com/mireu1214">
+        <img src="https://img.shields.io/badge/Facebook-facebook.com/mireu1214-0080aa?style=for-the-badge&logo=facebook">
+        </a>
+    <li>
+</ul>
