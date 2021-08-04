@@ -33,5 +33,5 @@ Hello, I am a student developer who is a service app backend development, server
         <a href="https://www.facebook.com/mireu1214">
         <img src="https://img.shields.io/badge/Facebook-facebook.com/mireu1214-0080aa?style=for-the-badge&logo=facebook">
         </a>
-    <li>
+    </li>
 </ul>
