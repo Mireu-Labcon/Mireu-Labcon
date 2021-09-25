@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 Hello, I am a student developer who is a service app backend development, server administrator. (API, web backend, python module, artificial intelligence, big data, IoT).
 
 **My Website**: [Link](https://mireu-labcon.github.io/Mireu-Labcon/), 
@@ -13,7 +13,7 @@ Hello, I am a student developer who is a service app backend development, server
 ### Team
 **I belong to the developer teams of names below.**
 <ul>
-  <li><a href="https://github.com/dply-app"><img src="https://img.shields.io/badge/Team Sirius-808080?style=flat-square"></a> : Discord bot development and docker hosting development team</li>
+  <li><a href="https://github.com/dply-app"><img src="https://img.shields.io/badge/DPLY APP-808080?style=flat-square"></a> : Discord bot development and docker hosting development team</li>
 </ul>
 
 ### Content Us
