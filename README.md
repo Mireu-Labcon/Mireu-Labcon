@@ -1,7 +1,7 @@
 ## Hi there 👋
 Hello, I am a student developer who is a service app backend development, server administrator. (API, web backend, python module, artificial intelligence, big data, IoT).
 
-**My Website**: [Link](https://mireu-labcon.github.io/Mireu-Labcon/), 
+**My Introduce**: [Link](https://mireu1214.notion.site/02798128412f436aa022e25a08f3c1bf), 
 
 ![Mireu / 미르's github Status](https://github-readme-stats.vercel.app/api?username=mireu-labcon&count_private=true&show_icons=true&theme=tokyonight)
 
